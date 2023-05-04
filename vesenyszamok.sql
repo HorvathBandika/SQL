@@ -65,9 +65,3 @@
         WHERE orszagok.azon = versenyzok.orszag_azon) 
     WHERE versenyzok.egyen_csapat = 'c';    
   
-Impresszum
-Bemutatkozás
-Napló
-Tanároknak
-Adatkezelési tájékoztató
-Copyright © 2022 | Minden jog fenntartva!
