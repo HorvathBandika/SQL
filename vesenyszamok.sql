@@ -1,24 +1,3 @@
-PuskaHasznos linkekOnline tesztadatbázissuliPY
-Összes almenü nyitása
-1. Adatbázisok
-2. SQL nyelv alapjai
-3. Szoftverkörnyezet kialakítása
-4. SQL nyelvről bővebben
-5. Gyakorló feladatok érttségirebővül!
-6. Érettségi feladatokbővül!
-Mintafeladatsor
-2022. október - Állóképesség
-7. Python és SQL
-CREATE, DROP és ALTER
-
-
-Forrásfájlok letöltése
-Az alábbi kódban az oszlopok megnevezése teljes elérési útvonallal szerepel. Ennek indoka a könyebb kódolvashatóság mellett az lehet, hogy a phpMyAdmin kódkiegészítője így az oszlopok nevének írásában is segít.
-
-A másik alternatíva az alies-ek használata.
-
-Érdemes kipróbálni ezeket a különböző opciókat, és annál maradni, amely számunkra a legkényelmesebb.
-
     -- 1. 1980 utáni, szegedi születésű, egyéni versenyzők névsora
     SELECT versenyzok.nev, versenyzok.szul_dat 
     FROM versenyzok 
